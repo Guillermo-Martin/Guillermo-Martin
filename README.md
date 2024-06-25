@@ -2,13 +2,13 @@
 
 ## About me
 - 😄 Pronouns: he/him/his
-- 👨🏻‍💻 I'm a Junior Web Developer at Sift, where I currently work on the Marketing site.
-- 🌱 I'm learning UX design and have discovered I really enjoy it.
-- 🔭 I’m currently working towards the Google UX Design Professional Certificate (two more courses to go!).
+- 👨🏻‍💻 I'm a Junior Web Developer.
+- 🌱 I recently earned my professional certificate in UX Design from Google.
+- 🔭 I’m currently looking for my next opportunity.
 - ⚡ Fun fact: In a former life, I was a forensic scientist and helped to solve crime using biology and DNA.
 
 ## My interests
-- 🎮 I enjoy playing video games and I am a huge fan of Nintendo.  Currently playing:  Super Mario Bros. Wonder.
+- 🎮 I enjoy playing video games and I am a huge fan of Nintendo.  Currently playing:  Final Fantasy VII Rebirth.
 - 🤺 I'm an avid fencer.  Foil is my sword of choice (mostly because I haven't learned épée or sabre, yet).
 - 🍔 I'm a huge foodie and love trying new foods.  Current food obsession:  quesabirrias.
 - 🥐 I love to bake because it's therapeutic and fun.
@@ -19,4 +19,4 @@
 
 
 ## Connect with me!
-- 📫 [Resume](https://guillermo-martin.github.io/gcm-portfolio-0923/assets/documents/guillermo-martin-resume.pdf) | [Portfolio](https://guillermo-martin.github.io/gcm-portfolio-0923/) | [LinkedIn](https://www.linkedin.com/in/guillermo-martin-10441046/) | [Email](mailto:gscalica@gmail.com)
+- 📫 [Resume](https://guillermo-martin.github.io/assets/documents/guillermo-martin-resume.pdf) | [Portfolio](https://guillermo-martin.github.io/) | [LinkedIn](https://www.linkedin.com/in/guillermo-martin-10441046/) | [Email](mailto:gscalica@gmail.com)
