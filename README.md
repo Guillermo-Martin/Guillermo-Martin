@@ -2,7 +2,7 @@
 
 ## About me
 - 😄 Pronouns: he/him/his
-- 👨🏻‍💻 I'm a Junior Web Developer.
+- 👨🏻‍💻 I'm a Web Developer and UX Designer.
 - 🌱 I recently earned my professional certificate in UX Design from Google.
 - 🔭 I’m currently looking for my next opportunity.
 - ⚡ Fun fact: In a former life, I was a forensic scientist and helped to solve crime using biology and DNA.
